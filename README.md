@@ -1,5 +1,5 @@
 # Objection Boilerplate
-Objection.js - Biolerplate  V 2.0
+Objection.js - Boilerplate  V 2.0
 
 ### Boilerplate for Objection.js using knex and MYSQL
 It contains curd operation for a post ;
